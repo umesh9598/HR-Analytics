@@ -38,7 +38,7 @@ Filter data by department, job role, location, and date for detailed analysis.
 ## 🗂️ File Information
 - **File Name:** HR Project.pbix  
 - **Tool Used:** Microsoft Power BI  
-- **Data Sources:** HR_dataset.xlsx (employee records, performance data, recruitment metrics)
+- **Data Sources:** HR Analytics Final Dataset.xlsx - main.csv
 
 ---
 
