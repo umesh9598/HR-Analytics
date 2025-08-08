@@ -44,9 +44,9 @@ Filter data by department, job role, location, and date for detailed analysis.
 
 ## 📸 Screenshots
 
-<img width="882" height="487" alt="Overview Page" src="https://github.com/user-attachments/assets/827c0869-8b48-4899-ac44-aac5619f7305" />
+<img width="879" height="491" alt="Overview Page" src="https://github.com/user-attachments/assets/b40d11b2-6246-4ca5-ad71-41cecead2ccb" />
+<img width="874" height="487" alt="Employee Page" src="https://github.com/user-attachments/assets/e42feabf-db67-4039-95e4-b510768243d9" />
 
-<img width="889" height="489" alt="Employee Page" src="https://github.com/user-attachments/assets/367bb97a-2a61-4ce0-8db9-f431351c2634" />
 
 
 
