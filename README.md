@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# HR Attrition Analysis Dashboard
 
 This Power BI dashboard provides a comprehensive view of the organization’s human resources data to help HR teams and management make informed workforce decisions. It consolidates employee-related data into interactive visualizations, offering insights into headcount trends, attrition rates, performance, diversity, and more.
 
