@@ -1,66 +1,68 @@
-HR Analytics Dashboard – Power BI
-📌 Project Overview
-The HR Analytics Dashboard is an interactive Power BI report designed to help HR teams track and analyze key workforce metrics.
-It provides insights into employee demographics, attrition, hiring trends, and performance, enabling data-driven decision-making for talent management.
+# HR Analytics Dashboard
 
-🎯 Objectives
-Monitor employee distribution across departments, roles, and locations.
+This Power BI dashboard provides a comprehensive view of the organization’s human resources data to help HR teams and management make informed workforce decisions. It consolidates employee-related data into interactive visualizations, offering insights into headcount trends, attrition rates, performance, diversity, and more.
 
-Identify attrition patterns and potential retention risks.
+---
 
-Track hiring and promotion trends over time.
+## 🚀 Project Objectives
+- Track workforce size, composition, and changes over time  
+- Monitor employee attrition and retention patterns  
+- Analyze workforce distribution by department, location, and demographics  
+- Identify trends in employee performance and engagement  
+- Enable data-driven HR strategies for recruitment, retention, and development  
 
-Provide actionable insights for HR strategy and workforce planning.
+---
 
-📊 Key Features
-Employee Demographics – Gender, age group, department, and role distribution.
+## 📈 Dashboard Features
 
-Attrition Analysis – Attrition rate by department, role, age group, and tenure.
+### Headcount Overview
+Visualize total employees and trends over selected timeframes.
 
-Hiring Trends – Monthly and yearly hiring performance.
+### Attrition Analysis
+Understand voluntary and involuntary attrition rates and reasons.
 
-Performance Insights – Ratings, promotion data, and high performer identification.
+### Workforce Demographics
+Breakdown of employees by gender, age group, department, and location.
 
-Interactive Filters – Slicers for department, location, and job role.
+### Performance Tracking
+View distribution of employee performance ratings and identify top/low performers.
 
-🛠 Tools & Technologies
-Power BI Desktop – Data modeling, DAX measures, and visualization.
+### Recruitment Metrics
+Track hiring trends, time-to-hire, and offer acceptance rates.
 
-Data Cleaning – Handled within Power Query Editor.
+### Slicers & Filters
+Filter data by department, job role, location, and date for detailed analysis.
 
-Data Sources – HR dataset (employee records, hiring logs, attrition history).
+---
 
-📈 DAX Measures Used (Examples)
-Attrition Rate = (Number of Exited Employees) / (Total Employees)
+## 🗂️ File Information
+- **File Name:** HR Project.pbix  
+- **Tool Used:** Microsoft Power BI  
+- **Data Sources:** HR_dataset.xlsx (employee records, performance data, recruitment metrics)
 
-Average Age = AVERAGE(Employee[Age])
+---
 
-Average Tenure = AVERAGE(Employee[YearsAtCompany])
+## 📸 Screenshots
 
-📷 Dashboard Preview
-(Insert screenshot of your dashboard here)
+<img width="882" height="487" alt="Overview Page" src="https://github.com/user-attachments/assets/827c0869-8b48-4899-ac44-aac5619f7305" />
 
-🚀 How to Use
-Download the .pbix file from this repository.
+<img width="889" height="489" alt="Employee Page" src="https://github.com/user-attachments/assets/367bb97a-2a61-4ce0-8db9-f431351c2634" />
 
-Open it in Power BI Desktop.
 
-Interact with slicers and filters to explore insights.
 
-Modify or connect to your own HR dataset if required.
+---
 
-📂 File Structure
-nginx
-Copy
-Edit
-HR Project.pbix   # Power BI dashboard file
-README.md         # Project documentation
-📌 Insights Summary
-The Sales and R&D departments have the highest attrition rates.
+## 🛠️ How to Use
+1. Open the `.pbix` file in **Power BI Desktop**.  
+2. Explore interactive pages and visuals.  
+3. Apply slicers and filters to customize analysis.  
+4. Modify or extend visuals based on business needs.  
 
-Younger employees (<30 years) show higher turnover trends.
+---
 
-Average tenure is ~4.5 years; longer tenure correlates with higher performance ratings.
-
-Hiring peaked in Q2, indicating seasonal recruitment patterns.
-
+## 📌 Insights You Can Gain
+- Which departments have the highest turnover rates  
+- How headcount has changed over time  
+- Diversity ratios across departments and levels  
+- Trends in recruitment and hiring efficiency  
+- Correlation between performance ratings and retention  
